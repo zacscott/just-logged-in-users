@@ -11,7 +11,7 @@ class DisableFrontendForLoggedOutUsersController {
 
     public function __construct() {
        
-        add_action( 'init', [ $this, 'maybe_disable' ] );
+        add_action( 'template_redirect', [ $this, 'maybe_disable' ] );
 
     }
 
