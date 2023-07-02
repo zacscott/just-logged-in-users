@@ -1,7 +1,7 @@
 <?php
 /**
  * Plugin Name: Just Logged In Users
- * Version:     1.0
+ * Version:     1.0.1
  * Author:      Zac Scott
  * Author URI:  https://zacscott.net
  * Description: Disable the site for non-logged in users.

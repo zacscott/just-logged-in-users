@@ -18,6 +18,9 @@ Useful for a private site which you dont want anyone snooping around on.
 
 == Changelog ==
 
+= 1.0.1 =
+* Change plugin file.
+
 = 1.0 =
 * Initial release.
 
